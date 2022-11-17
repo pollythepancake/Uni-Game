@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Platform Sprites_0
+  m_Name: Platform Sprites_3
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 2104639439, guid: f6d1a211476ceff4f97fd166969761e1, type: 3}
+  m_Sprite: {fileID: 1492169459, guid: f6d1a211476ceff4f97fd166969761e1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
